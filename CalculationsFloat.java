@@ -1,3 +1,5 @@
+// Karen Nurlybekov, Nikolay Sekerbayev, Om Padhyay, Deva Narayanan
+
 package com.company;
 import java.util.Scanner;
 
