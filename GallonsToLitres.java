@@ -1,5 +1,5 @@
 // Karen Nurlybekov, Nikolay Sekerbayev, Om Padhyay, Deva Narayanan
-// Program converts inputed by user number of gallons to litres
+// Program converts inputted by user number of gallons to litres
 
 package com.company;
 import java.util.Scanner; // import Scanner class
